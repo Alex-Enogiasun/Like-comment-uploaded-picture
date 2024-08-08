@@ -106,7 +106,7 @@ button:focus-visible {
   }
 }
 
-@media{
+@media only screen and (max-width: 600px){
 
   #commentbox{
   background-color: white;
